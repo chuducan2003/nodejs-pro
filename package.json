@@ -1,0 +1,27 @@
+{
+    "name": "nodejs-pro",
+    "version": "1.0.0",
+    "description": "nodejs pro",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chuducan2003/nodejs-pro.git"
+    },
+    "keywords": [
+        "nodejs",
+        "express",
+        "mongodb"
+    ],
+    "author": {
+        "name": "Chu Đức An",
+        "url": "https://ducandev.vn"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/chuducan2003/nodejs-pro/issues"
+    },
+    "homepage": "https://github.com/chuducan2003/nodejs-pro#readme"
+}
